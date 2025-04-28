@@ -1,0 +1,16 @@
+SPRINT BACKLOG: [Desafio Sprint Versionamento e Metodologia Ágeis]
+Objetivo da Sprint: [Realizar alterações necessárias solicitadas pelo cliente]
+Data de início: [22/04/2025]
+Data de término: [28/04/2025]
+
+ID: Histórias do Usuário.
+
+ID1:
+Título: Atualização de Lista de Veículos no index.html.
+Descrição: Alteração na página index, na fonte com os nomes dos veículos, da cor azul para a preta, para proporcionar uma melhor experiência de usuário.
+Status: Concluído.
+
+ID3:
+Título: Atualização de Menu de Navegação no contato.html
+Descrição: Alteração nos nomes e cores dos links para as outras páginas, para que seja mais detalhada facilitando o entendimento e a navegação
+Status: Concluído.
