@@ -1,0 +1,22 @@
+SPRINT RETROSPECTIVE
+Alterações Cliente ID1: Durante o desenvolvimento do ID1, foi interpretada corretamente as necessidades de melhoria no 
+arquivo index.html, de acordo com o levantamento na Sprint Planning. A alteração foi implementada com sucesso, com a 
+adição de uma estrutura mais organizada e visualmente aprimorada. A inclusão do título melhorou a semântica e a compreensão
+do conteúdo da página, enquanto a aplicação de cor azul na fonte a pedido do cliente destacou os elementos de maneira 
+eficiente, aumentando a atratividade visual do site.
+
+O que não funcionou bem: Apesar da alteração ter atingido o objetivo, o uso da tag <font> não está em conformidade com as 
+boas práticas atuais, já que ela é considerada obsoleta no HTML5. Também, houve um erro de sintaxe ao final do último item
+da lista (<li>), onde um caractere > foi inserido de forma incorreta após o fechamento da tag, o que poderia causar 
+problemas de renderização no navegador.
+
+
+Alterações Cliente ID3: No desenvolvimento do ID3, a equipe conseguiu tornar mais claros os textos e links da navegação do
+arquivo contato.html, de acordo com o levantamento na Sprint Planning. A troca dos nomes de navegação para termos mais 
+amigáveis, melhorou a usabilidade e a comunicação com o usuário final. Também foi corrigido o problema de URL anterior, 
+que continha espaços e caracteres especiais indevidos, facilitando a manutenção futura dos arquivos.
+
+O que não funcionou bem: Foi observado que a modificação poderia ter sido ainda mais completa se tivesse sido acompanhada 
+de uma padronização visual. Além disso, pequenos detalhes, como revisar as rotas para caminhos relativos mais padronizados
+em diferentes ambientes de servidor, portanto o link “Veículos e Como Falar Conosco” não funcionam, não redirecionando 
+o usuário.
